@@ -1,3 +1,10 @@
 data/
+logs/
+airflow*
 
 .env
+.vscode
+
+__pycache__/
+
+simple_auth_manager_passwords.json.generated
